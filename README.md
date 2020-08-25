@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Interactive books solution**
 
-- 🌱 I’m currently learning **Swift**
-
 - 👨‍💻 All of my projects are available at [https://uxfol.io/project/04ef4778/Abdelrahman-Rabie](https://uxfol.io/project/04ef4778/Abdelrahman-Rabie)
 
 - 💬 Ask me about **Flutter**
